@@ -57,6 +57,11 @@ body {
     text-decoration: none;
   }
 
+  .phone::before {
+    content: '';
+    background-image: url("../img/phone.png");
+  }
+
   .phone-text {
     margin: 0;
     font-size: 12px;
