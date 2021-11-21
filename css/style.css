@@ -56,3 +56,10 @@ body {
     color: #303030;
     text-decoration: none;
   }
+
+  .phone-text {
+    margin: 0;
+    font-size: 12px;
+    line-height: 28px;
+    color: #9a9a9a;
+  }
