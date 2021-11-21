@@ -67,7 +67,7 @@ body {
     width: 15px;
     height: 15px;
     margin-right: 10px;
-    background-image: url("../img/phone.png");
+    background-image: url("img/phone.png");
     background-repeat: no-repeat;
     background-position: center;
   }
@@ -77,4 +77,14 @@ body {
     font-size: 12px;
     line-height: 28px;
     color: #9a9a9a;
+  }
+
+  .promo-wrapper {
+    display: flex;
+  }
+  
+  .promo-img-column {
+    width: 570px;
+    margin-right: 30px;
+    padding-top: 95px;
   }
