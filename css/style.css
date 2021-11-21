@@ -24,3 +24,10 @@ body {
     padding-left: 15px;
     padding-right: 15px;
   }
+
+  .main-header {
+    display: flex;
+    align-items: center;
+    padding-top: 35px;
+    padding-bottom: 35px;
+  }
