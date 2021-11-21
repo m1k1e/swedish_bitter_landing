@@ -59,7 +59,12 @@ body {
 
   .phone::before {
     content: '';
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
     background-image: url("../img/phone.png");
+    background-repeat: no-repeat;
+    background-position: center;
   }
 
   .phone-text {
