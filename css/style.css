@@ -57,6 +57,11 @@ body {
     text-decoration: none;
   }
 
+  .phone:hover {
+    font-weight: 700;
+    text-decoration: underline;
+  }
+
   .phone::before {
     content: '';
     width: 15px;
