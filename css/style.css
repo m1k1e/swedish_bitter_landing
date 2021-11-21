@@ -43,3 +43,8 @@ body {
     line-height: 20px;
     color: #9a9a9a;
   }
+
+  .main-header-phone-column {
+    margin-left: auto;
+    text-align: right;
+  }
