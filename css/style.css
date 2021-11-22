@@ -81,7 +81,7 @@ body {
     margin-right: 10px;
     background-image: url("../img/phone.svg");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: top center;
   }
 
   .phone-text {
