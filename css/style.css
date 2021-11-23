@@ -210,6 +210,11 @@ body {
     max-width: 875px;
     flex-shrink: 0;
   }
+
+  .success-secret-img {
+    position: relative;
+    margin: 0;
+}
   
   .success-secret-img img {
     display: block;
