@@ -130,4 +130,10 @@ body {
   .statistics-list {
     display: flex;
     flex-wrap: wrap;
+    margin-right: -15px;
+  }
+
+  .statistics-item {
+    width: 270px;
+    margin-right: 15px;
   }
