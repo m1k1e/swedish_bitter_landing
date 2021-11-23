@@ -190,3 +190,27 @@ body {
     text-transform: uppercase;
     font-weight: 600;
   }
+
+  .success-secret {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+  }
+  
+  .success-secret-img-column {
+    width: 50%;
+    max-width: 875px;
+    flex-shrink: 0;
+  }
+  
+  .success-secret-list-column {
+    width: 50%;
+    max-width: 875px;
+    flex-shrink: 0;
+  }
+  
+  .success-secret-img img {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+  }
