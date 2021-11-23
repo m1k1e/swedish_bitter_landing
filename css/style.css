@@ -198,6 +198,8 @@ body {
   }
   
   .success-secret-img-column {
+    display: flex;
+    flex-direction: column;
     width: 50%;
     max-width: 875px;
     flex-shrink: 0;
@@ -213,6 +215,20 @@ body {
     display: block;
     width: 100%;
     object-fit: cover;
+  }
+
+  .success-secret-img figcaption {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 600px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+  }
+  
+  .success-secret-button {
+    margin-left: auto;
   }
 
   .success-secret-title {
