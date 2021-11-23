@@ -127,6 +127,11 @@ body {
     font-weight: 600;
   }
 
+  .statistics {
+    padding-top: 85px;
+    padding-bottom: 150px;
+  }
+
   .statistics-list {
     display: flex;
     flex-wrap: wrap;
@@ -150,6 +155,11 @@ body {
     margin: 0;
   }
 
+  .symptoms {
+    padding-bottom: 90px;
+    background-color: #f6f9f3;
+  }
+
   .symptoms-wrapper {
     display: flex;
   }
@@ -160,4 +170,23 @@ body {
   
   .symptoms-img-column {
     width: 500px;
+  }
+
+  .symptoms-title {
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 700;
+    color: #303030;
+  }
+  
+  .symptoms-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .symptoms-item {
+    padding: 30px 7px 15px;
+    text-transform: uppercase;
+    font-weight: 600;
   }
