@@ -149,3 +149,15 @@ body {
   .item-description {
     margin: 0;
   }
+
+  .symptoms-wrapper {
+    display: flex;
+  }
+  
+  .symptoms-list-column {
+    width: 670px;
+  }
+  
+  .symptoms-img-column {
+    width: 500px;
+  }
