@@ -136,4 +136,16 @@ body {
   .statistics-item {
     width: 270px;
     margin-right: 15px;
+    color: #000000;
+  }
+
+  .item-indicator {
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 600;
+    color: #a4c58c;
+  }
+  
+  .item-description {
+    margin: 0;
   }
