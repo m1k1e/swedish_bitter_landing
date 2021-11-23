@@ -80,6 +80,7 @@ body {
     width: 16px;
     height: 15px;
     margin-right: 10px;
+    margin-top: 5px;
     background-image: url("../img/phone.svg");
     background-repeat: no-repeat;
     background-position: center;
@@ -124,4 +125,9 @@ body {
   .promo-text-big {
     font-size: 60px;
     font-weight: 600;
+  }
+
+  .statistics-list {
+    display: flex;
+    flex-wrap: wrap;
   }
