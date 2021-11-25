@@ -270,6 +270,15 @@ body {
     background-color: #f6f9f3;
   }
 
+  .set-title {
+    width: 440px;
+    margin: 10px 0 50px;
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 700;
+    color: #303030;
+  }
+
   .set-list {
     list-style: none;
     padding: 0;
