@@ -209,6 +209,8 @@ body {
     width: 50%;
     max-width: 875px;
     flex-shrink: 0;
+    padding-left: 70px;
+    box-sizing: border-box;
   }
 
   .success-secret-img {
