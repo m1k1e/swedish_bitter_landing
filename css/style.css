@@ -264,3 +264,8 @@ body {
     font-weight: 700;
     text-transform: uppercase;
   }
+
+  .set {
+    padding-bottom: 150px;
+    background-color: #f6f9f3;
+  }
