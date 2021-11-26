@@ -357,3 +357,21 @@ body {
     margin-bottom: 30px;
     background-color: #f6f9f3;
   }
+
+  .ingredients-item h3 {
+    margin: 0;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #a4c58c;
+  }
+  
+  .ingredients-description-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .ingredients-description-item {
+    margin-bottom: 40px;
+  }
