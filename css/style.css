@@ -375,3 +375,20 @@ body {
   .ingredients-description-item {
     margin-bottom: 40px;
   }
+
+  .warranty {
+    background-color: #f6f9f3;
+  }
+  
+  .warranty-wrapper {
+    display: flex;
+  }
+  
+  .warranty-text-column {
+    width: 670px;
+    margin-right: 15px;
+  }
+  
+  .warranty-img-column {
+    width: 485px;
+  }
