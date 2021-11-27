@@ -422,3 +422,26 @@ body {
     margin-left: auto;
     text-align: right;
   }
+
+  .main-footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 645px;
+  }
+  
+  .main-footer-links-item {
+    margin-right: 60px;
+  }
+  
+  .main-footer-links-item:last-child {
+    margin-right: 0;
+  }
+  
+  .main-footer-link {
+    font-size: 12px;
+    line-height: 16px;
+    color: #9a9a9a;
+  }
