@@ -406,3 +406,19 @@ body {
     line-height: 18px;
     text-transform: uppercase;
   }
+
+  .main-footer {
+    display: flex;
+    align-items: center;
+    padding-top: 35px;
+    padding-bottom: 35px;
+  }
+  
+  .main-footer-logo {
+    margin-right: 90px;
+  }
+  
+  .main-footer-phone-column {
+    margin-left: auto;
+    text-align: right;
+  }
